@@ -2,3 +2,4 @@ This is the main application code
 I added this line while while stagged
 
 This is feature 1 addition
+THis is the real feature2 branch update. First was an error
