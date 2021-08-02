@@ -2,3 +2,5 @@ This is the main application code
 I added this line while while stagged
 
 This is feature 1 addition
+
+Now this is feature 2 starting after the second commit on master branch
